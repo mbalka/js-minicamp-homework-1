@@ -3,12 +3,17 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+
+	### Variables
+	Variables are objects that store a value of something, whether a number, a boolean value, or a string of characters.  It is a notation of a container for something else, data that can be manipulated and stored.
+	### Strings
+	Strings are literal strings of characters or integers that are literally intepreted to be exactly what they are printed as in textual arguments.  They are typically enclosed by single quotes, but can sometimes be surrounded by double quotes.  They can be manipulated like any variable, but behave like words.
+	### Functions (arguments, `return`)
+	A function is a step or series of steps or calculations that can be performed on a variable or series of variables.  it is called by the term _function_ and either calls the variable to perform the tasks upon or can be anonymous in that it performs the task on whatever data is presented in order from top to bottom in the code.
+	### `if` statements
+	_if_ statements are logical operators that perform a task if a condition is met.  It is typically followed by an _else_ statement or an _else if_ statement.  It stops performing once the condition is met or if a certain value is achieved, typically set within the conditions of the statement.
+	### Boolean values (`true`, `false`)
+	__Booleans__ are values either true or false.  It is strictly binary in nature, either the value or result returns true, or if not, by default, false.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
